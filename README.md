@@ -77,19 +77,19 @@ En la era digital, los gemelos digitales (Digital Twins) han surgido como herram
 
 <div align="center">
 
-<img height="200" alt="(a) Cámara térmica. Ensayos de robustez de 3DGS. Imágenes dentro de la simulación de Unreal Engine" src="https://github.com/user-attachments/assets/5bf5a4e0-953b-40ab-a999-4aea5d00673a" >
-<img height="200" alt="(a) Bajo el mar. Ensayos de robustez de 3DGS. Imágenes dentro de la simulación de Unreal Engine" src="https://github.com/user-attachments/assets/109712de-76bb-47a6-86c7-bd6243763262" >
-<img height="200" alt="(a) Humo. Ensayos de robustez de 3DGS. Imágenes dentro de la simulación de Unreal Engine" src="https://github.com/user-attachments/assets/f2a9ae73-9c2a-4e56-a747-35a7b3511757" >
-<img height="200" alt="(a) Flores (geometría compleja). Ensayos de robustez de 3DGS. Imágenes dentro de la simulación de Unreal Engine" src="https://github.com/user-attachments/assets/36176a2e-84b2-448c-9952-6ba89b2c71c7" >
+<img height="200" alt="(a) Thermal camera. 3DGS robustness tests. Images inside the Unreal Engine simulation" src="https://github.com/user-attachments/assets/5bf5a4e0-953b-40ab-a999-4aea5d00673a" >
+<img height="200" alt="(a) Under the sea. 3DGS robustness tests. Images inside the Unreal Engine simulation" src="https://github.com/user-attachments/assets/109712de-76bb-47a6-86c7-bd6243763262" >
+<img height="200" alt="(a) Smoke. 3DGS robustness tests. Images inside the Unreal Engine simulation" src="https://github.com/user-attachments/assets/f2a9ae73-9c2a-4e56-a747-35a7b3511757" >
+<img height="200" alt="(a) Flowers (complex geometry). 3DGS robustness tests. Images within the Unreal Engine simulation" src="https://github.com/user-attachments/assets/36176a2e-84b2-448c-9952-6ba89b2c71c7" >
 
-> Ensayos de robustez de 3DGS[^2]. De izquierda a derecha y de arriba a abajo: cámara térmica, bajo el mar, humo, flores (geometría compleja). Imágenes dentro de la simulación de Unreal Engine. _Fuente: elaboración propia_
+> 3DGS robustness tests[^2]. From left to right and top to bottom: thermal camera, underwater, smoke, flowers (complex geometry). Images inside the Unreal Engine simulation. _Source: Author_
 
 &nbsp;
 &nbsp;
 
-![Despliegue de la tecnología en una situación de rescate simulada](https://github.com/user-attachments/assets/1a185adc-16fa-4f26-bab2-833bc96975ab)
+![Deployment of technology in a simulated rescue situation](https://github.com/user-attachments/assets/1a185adc-16fa-4f26-bab2-833bc96975ab)
 
-> Despliegue de la tecnología en una situación de rescate simulada. _Fuente: elaboración propia_
+> Deployment of technology in a simulated rescue situation. _Source: Author_
 
 </div>
 
@@ -99,40 +99,40 @@ En la era digital, los gemelos digitales (Digital Twins) han surgido como herram
 ## Acerca de este repositorio
 <div align="justify">
   
-En este repositorio podrán encontrar:
-- El código fuente de los nodos y el launcher con los parámetros de ROS necesarios para la comunicación entre el robot y Unreal Engine.
-- El proyecto completo de Unreal Engine 5.2. utilizado para el desarrollo del trabajo incluyendo los plugins con las modificaciones indicadas en la memoria.
-- Los manuales de instalación y uso de las herramientas utilizadas.
-- La recopilación de conceptos y comandos de ROS básicos necesarios para el proyecto.
+In this repository you will find:
+- The source code of the nodes and the launcher with the ROS parameters necessary for communication between the robot and Unreal Engine.
+- The complete Unreal Engine 5.2 project used for the development of the work, including the plugins with the modifications indicated in the report.
+- The installation and use manuals for the tools used.
+- The compilation of basic ROS concepts and commands necessary for the project.
 </div>
 
-## Información accesible
+## Accessible information
 <div align="justify">
-La memoria del trabajo se puede consultar en el Archivo Digital UPM.
+The work report can be consulted in the UPM Digital Archive.
 
-- Enlace a la memoria: [https://oa.upm.es/83722/](https://oa.upm.es/83722/)
+- Link: [https://oa.upm.es/83722/](https://oa.upm.es/83722/)
 
-Adicionalmente, se pone a disposición el siguiente canal de YouTube donde se pueden encontrar las primeras pruebas llevadas a cabo con instant-ngp, los ensayos de robustez de la capacidad de generación de modelos 3D para entornos considerados difíciles y el vídeo demostrativo del despliegue de la tecnología.
+Additionally, the following YouTube channel is available where you can find the first tests carried out with instant-ngp, the robustness tests of the capacity to generate 3D models for environments considered difficult and the demonstration video of the deployment of the technology.
 
-- Canal de YouTube: [https://www.youtube.com/@JavierJimenezFernandez-upm](https://www.youtube.com/@JavierJimenezFernandez-upm)
+- Youtube Channel: [https://www.youtube.com/@JavierJimenezFernandez-upm](https://www.youtube.com/watch?v=sjYeZrFqgSc)
 
-La relación de vídeos que se encuentran en el canal de YouTube es la siguiente:
-1. Demostración del flujo de trabajo completo
-2. instant-ngp - Entrenamiento Flores Amarillas
-3. Ensayos de robustez de 3DGS - Entornos con elementos repetitivos
-4. Ensayos de robustez de 3DGS - Objetos de tamaño reducido
-5. Ensayos de robustez de 3DGS - Elementos con geometrías complejas
-6. Ensayos de robustez de 3DGS - Escenas con humo o niebla
-7. Ensayos de robustez de 3DGS - Escenas nocturnas
-8. Ensayos de robustez de 3DGS - Grabaciones con cámara térmica
-9. Ensayos de robustez de 3DGS - Escenas con reflejos y refracción
+The list of videos found on the YouTube channel is as follows:
+1. Demonstration of the complete workflow
+2. instant-ngp - Yellow Flowers Training
+3. 3DGS Robustness Tests - Environments with repetitive elements
+4. 3DGS Robustness Tests - Small objects
+5. 3DGS Robustness Tests - Elements with complex geometries
+6. 3DGS Robustness Tests - Scenes with smoke or fog
+7. 3DGS Robustness Tests - Night scenes
+8. 3DGS Robustness Tests - Thermal camera recordings
+9. 3DGS Robustness Tests - Scenes with reflections and refraction
 </div>
 
-## Descripción general
+## General description
 <div align="justify">
-En la era digital, los gemelos digitales (Digital Twins) han emergido como herramientas fundamentales para la simulación y el control en tiempo real de entornos fíısicos complejos. Este trabajo presenta el desarrollo de un sistema de control telemático inmersivo que combina la tecnología de los gemelos digitales con realidad virtual (VR), generada a partir de Neural Radiance Fields (NeRF) y posteriores desarrollos derivados de este como 3D Gaussian Splatting (3DGS).
+In the digital era, digital twins have emerged as fundamental tools for the simulation and real-time control of complex physical environments. This work presents the development of an immersive telematic control system that combines digital twin technology with virtual reality (VR), generated from Neural Radiance Fields (NeRF) and subsequent developments derived from it such as 3D Gaussian Splatting (3DGS).
 
-Para ilustrar el punto de partida se presentan en la figura 0.1 un escenario típico de entrenamiento de Digital Twins (0.1a) y el estado del arte en teleoperación de sistemas robótico con interfaces de realidad virtual en el laboratorio de Robótica y Cibernética (ROBCIB) del CAR ETSII - UPM (0.1b); y en la figura 0.2 ejemplos de modelos 3D de entornos físicos complejos en los que se propone desplegar dichos gemelos digitales.
+To illustrate the starting point, Figure 0.1 presents a typical training scenario for Digital Twins (0.1a) and the state of the art in teleoperation of robotic systems with virtual reality interfaces in the Robotics and Cybernetics Laboratory (ROBCIB) of CAR ETSII - UPM (0.1b); and Figure 0.2 presents examples of 3D models of complex physical environments in which it is proposed to deploy said digital twins.
 
 &nbsp;
 &nbsp;
@@ -140,17 +140,17 @@ Para ilustrar el punto de partida se presentan en la figura 0.1 un escenario tí
 </div>
 <div align="center">
 
-<img height="150" alt="Ejemplo (a) de Digital Twins en entornos artificiales o poco realistas" src="https://github.com/user-attachments/assets/751acb4a-73df-4233-9bd6-b63de7f39f2c" >
-<img height="150" alt="Ejemplo (b) de Digital Twins en entornos artificiales o poco realistas" src="https://github.com/user-attachments/assets/f53dd621-1235-438d-bf9e-e698f8c36276" >
+<img height="150" alt="Example (a) of Digital Twins in artificial or unrealistic environments" src="https://github.com/user-attachments/assets/751acb4a-73df-4233-9bd6-b63de7f39f2c" >
+<img height="150" alt="Example (b) of Digital Twins in artificial or unrealistic environments" src="https://github.com/user-attachments/assets/f53dd621-1235-438d-bf9e-e698f8c36276" >
 
-> Figuras 0.1a y 0.1b. Ejemplos de Digital Twins en entornos artificiales o poco realistas. _Fuentes:_ [^3] y [^4].
+> Figures 0.1a and 0.1b. Examples of Digital Twins in artificial or unrealistic environments. _Sources:_ [^3] y [^4].
 
 &nbsp;
 &nbsp;
 
-<img height="300" alt="Ejemplos de modelos 3D de entornos complejos generados con 3DGS" src="https://github.com/user-attachments/assets/8b7f329f-a1af-4639-8341-a7336d56de95" >
+<img height="300" alt="Examples of 3D models of complex environments generated with 3DGS" src="https://github.com/user-attachments/assets/8b7f329f-a1af-4639-8341-a7336d56de95" >
 
-> Figura 0.2: Ejemplos de modelos 3D de entornos complejos generados con 3DGS. _Fuente:_ [^2]
+> Figure 0.2: Examples of 3D models of complex environments generated with 3DGS. _Sources:_ [^2]
 
 &nbsp;
 &nbsp;
@@ -158,43 +158,42 @@ Para ilustrar el punto de partida se presentan en la figura 0.1 un escenario tí
 </div>
 <div align="justify">
 
-Esta investigación busca demostrar que es posible la integración de estas tecnologías de reconstrucción de modelos 3D con las operaciones de rescate en situaciones de emergencia, proporcionando a los operadores una visualización inmersiva y detallada del entorno afectado.
+This research seeks to demonstrate that it is possible to integrate these 3D model reconstruction technologies with rescue operations in emergency situations, providing operators with an immersive and detailed visualization of the affected environment.
 
-La reconstrucción precisa y realista de entornos tridimensionales a partir de imágenes bidimensionales en la que puedan operar los gemelos digitales de los robots desplegados también permite la simulación de posibles escenarios de catástrofe.
+The precise and realistic reconstruction of three-dimensional environments from two-dimensional images in which the digital twins of the deployed robots can operate also allows the simulation of possible catastrophe scenarios.
 
-De esta forma no solo se facilita una respuesta más rápida y efectiva, sino que también reduce el riesgo para los equipos de rescate.
+In this way, it not only facilitates a faster and more effective response, but also reduces the risk for rescue teams.
 
-Las principales aportaciones de este proyecto son las siguientes:
-1. La combinación de herramientas óptima para la obtención de un modelo 3D compatible con la simulación de los gemelos digitales de los robots.
-2. La robustez y el tiempo de despliegue de la tecnología en situaciones de aplicación realistas.
-3. La compatibilidad con las líneas de investigación actuales del laboratorio de Robótica y Cibernética (ROBCIB) del CAR ETSII UPM-CSIC en particular la simulación y el control telemático de robots mediante el uso de la realidad virtual para una colaboración más estrecha y segura entre operadores y robots.
+The main contributions of this project are the following:
+1. The optimal combination of tools to obtain a 3D model compatible with the simulation of the digital twins of the robots.
+2. The robustness and deployment time of the technology in realistic application situations.
+3. Compatibility with the current lines of research of the Robotics and Cybernetics Laboratory (ROBCIB) of the CAR ETSII UPM-CSIC, in particular the simulation and telematic control of robots through the use of virtual reality for closer and safer collaboration between operators and robots.
 
-La combinación de las herramientas utilizadas en este proyecto permite el despliegue de la tecnología en un tiempo aproximado de una hora y media para una situación simulada de rescate.
+The combination of the tools used in this project allows the deployment of the technology in approximately one and a half hours for a simulated rescue situation.
 
-Tras descartar instant-ngp[^5] y Unity por incompatibilidades, se han escogido las herramientas recopiladas en la lista mostrada a continuación. En la figura 0.3 se muestra el diagrama del flujo de trabajo completo de dichas herramientas y, después, la tabla 0.1 recoje los tiempos empleados para su despliegue.
+After discarding instant-ngp[^5] and Unity due to incompatibilities, the tools compiled in the list below have been chosen. Figure 0.3 shows the complete workflow diagram of these tools, and then Table 0.1 shows the times used for their deployment.
 
--	FFmpeg[^6], para el preprocesamiento, y COLMAP[^7] con la adiciónn de hloc[^8], para la obtención de la fotogrametría.
--	Splatfacto[^9] (método del entorno de NerfStudio[^9] para 3DGS[^2]) y volinga-model[^10], para la generación del modelo 3D de la escena.
--	Volinga Suite[^10], para compatibilidad con Unreal Engine (UE).
--	UE junto con el plugin de Volinga[^10], para su representación en un entorno de realidad virtual compatible con la simulación de los gemelos digitales de los robots.
--	Rosbridge[^11] y ROSIntegration[^12], para la compatibilidad con las líneas actuales de investigación que usan el estándar de ROS.
-
+- FFmpeg[^6], for preprocessing, and COLMAP[^7] with the addition of hloc[^8], for obtaining the photogrammetry.
+- Splatfacto[^9] (NerfStudio[^9] environment method for 3DGS[^2]) and volinga-model[^10], for generating the 3D model of the scene.
+- Volinga Suite[^10], for compatibility with Unreal Engine (UE).
+- UE together with the Volinga plugin[^10], for its representation in a virtual reality environment compatible with the simulation of the digital twins of the robots.
+- Rosbridge[^11] and ROSIntegration[^12], for compatibility with current lines of research that use the ROS standard.
 </div>
 <div align="center">
 
 &nbsp;
 &nbsp;
 
-<img alt="Flujo de trabajo completo" src="https://github.com/user-attachments/assets/7f7ed627-fc66-483e-a8ea-2afcc8328fd5" >
+<img alt="Complete workflow" src="https://github.com/user-attachments/assets/7f7ed627-fc66-483e-a8ea-2afcc8328fd5" >
 
-> Figura 0.3: Flujo de trabajo completo. _Fuente: elaboración propia_
+> Figure 0.3: Complete workflow. _Source: own elaboration_
 
 &nbsp;
 &nbsp;
 
-<img height="300" alt="Tabla de tiempos de despliegue del flujo de trabajo completo" src="https://github.com/user-attachments/assets/b4998254-9a7f-4310-8a9f-b1108d60f0b7" >
+<img height="300" alt="Full Workflow Deployment Time Table" src="https://github.com/user-attachments/assets/b4998254-9a7f-4310-8a9f-b1108d60f0b7" >
 
-> Tabla 0.1: Tabla de tiempos de despliegue del flujo de trabajo completo. _Fuente: elaboración propia_
+> Table 0.1: Table of deployment times for the complete workflow. _Source: Own elaboration_
 
 </div>
 <div align="justify">
@@ -202,17 +201,16 @@ Tras descartar instant-ngp[^5] y Unity por incompatibilidades, se han escogido l
 &nbsp;
 &nbsp;
 
-Con todo ello, el aspecto de la tecnología desplegada durante la demostración se puede observar en las imágenes de la figura 0.4.
-
+The appearance of the technology deployed during the demonstration can be seen in the images in Figure 0.4.
 </div>
 <div align="center">
 
 &nbsp;
 &nbsp;
 
-<img alt="Demostración del flujo de trabajo completo" src="https://github.com/user-attachments/assets/4ff0cf6a-3136-4187-ab96-527165159d97" >
+<img alt="Full workflow demonstration" src="https://github.com/user-attachments/assets/4ff0cf6a-3136-4187-ab96-527165159d97" >
 
-> Figura 0.4: Demostración del flujo de trabajo completo. _Fuente: elaboración propia_
+> Figure 0.4: Demonstration of the complete workflow. _Source: own elaboration_
 
 &nbsp;
 &nbsp;
@@ -221,7 +219,7 @@ Con todo ello, el aspecto de la tecnología desplegada durante la demostración 
 
 ## Palabras clave
 <div align="justify">
-Digital Twin, control telemático, simulación inmersiva, NeRF, Gaussian Splatting, Unreal Engine, realidad virtual para rescates.
+Digital Twin, telematic control, immersive simulation, NeRF, Gaussian Splatting, Unreal Engine, virtual reality for rescues.
 </div>
 
 ## Referencias
